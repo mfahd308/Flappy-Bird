@@ -44,14 +44,13 @@ java -version
 javac -version
 ```
 If not installed, you can download and install the JDK from the official Oracle website or use a package manager like apt (Linux) or brew (macOS).
-   
-5. Run "GatorEngine.java" file
 
 ### Usage
-Run the application in your IDE or terminal using the following command:
+Run src/GatorEngine.java in your IDE or terminal using the following command:
 
 ```bash
-python main.py
+java src/GatorEngine.java
+```
 
 Once the application is running, you can interact with the GUI to:
 - Search for games
