@@ -1,7 +1,6 @@
 # Swimmy Gator
 
-This repository contains the source code and documentation for the Swimmy Gator game project, developed using the Gator Engine. Players control a gator, avoiding obstacles, seeking power-ups, and managing gravity and impulse forces.
-
+This repository contains the source code and documentation for the Swimmy Gator game project, developed using the Gator Engine. 
 <h2> Table of Contents </h2>
 
 - [Overview](#overview)
@@ -19,7 +18,7 @@ This repository contains the source code and documentation for the Swimmy Gator 
 
 ## Overview
 
-The **Game Search Engine** fetches video game data from the [IGDB API](https://api-docs.igdb.com/), allowing users to explore game information such as titles, platforms, genres, and ratings. With features like game search, data visualization, and top-rated game recommendations, the application serves as a robust platform for exploring game data.
+The project follows a structure inspired by Unity game development principles, but is implemented in Java using the **Gator Engine**. The game’s architecture supports multiple views (start menu, gameplay, end game), and key gameplay mechanics such as gravity, impulse physics, dynamic obstacle behavior, power-up objects, and background scrolling are handled within the engine. Balancing these elements for optimal gameplay experience is essential to the project.
 
 ![Menu Image](resources/titlescreenss.png)
 
