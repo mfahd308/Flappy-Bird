@@ -1,4 +1,4 @@
-# Swimmy-Gator
+# Swimmy Gator
 
 This repository contains the source code and documentation for the **Game Search Engine** project. The application allows users to explore, search, and visualize video game data through a graphical user interface (GUI).
 
@@ -88,7 +88,7 @@ This repository contains the source code and documentation for the Game Search E
 
 The Game Search Engine fetches video game data from the IGDB API, allowing users to explore game information such as titles, platforms, genres, and ratings. With features like game search, data visualization, and top-rated game recommendations, the application serves as a robust platform for exploring game data.
 
-![Menu Image](path_to_image.png)
+![Menu Image](resources/titlescreenss.png)
 
 ## Getting Started
 
