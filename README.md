@@ -33,18 +33,17 @@ The **Game Search Engine** fetches video game data from the [IGDB API](https://a
 
    ```bash
    git clone https://github.com/your-username/Game-Search-Engine.git
-   cd Game-Search-Engine
+   cd Gator-Engine
 2. Set up a Python virtual environment:
 
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    ```
-3. Install the required dependencies:
+3. Open repository in Java compatible environment
+   
+5. Run "GatorEngine.java" file
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 ### Usage
 Run the application in your IDE or terminal using the following command:
 
