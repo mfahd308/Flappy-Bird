@@ -11,7 +11,7 @@ This repository contains the source code and documentation for the Swimmy Gator 
 
 ## Overview
 
-The project follows a structure inspired by Unity game development principles, but is implemented in Java using the **Gator Engine**. The game’s architecture supports multiple views (start menu, gameplay, end game), and key gameplay mechanics such as gravity, impulse physics, dynamic obstacle behavior, power-up objects, and background scrolling are handled within the engine. Balancing these elements for optimal gameplay experience is essential to the project.
+The project follows a structure inspired by Unity game development principles, but is implemented in Java using the **Gator Engine**. The game’s architecture supports multiple views (start menu, gameplay, end game), and key gameplay mechanics such as gravity, impulse physics, dynamic obstacle behavior, power-up objects, and background scrolling are handled within the engine.
 
 ![Menu Image](resources/titlescreenss.png)
 
