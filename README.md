@@ -5,14 +5,7 @@ This repository contains the source code and documentation for the Swimmy Gator 
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
 - [Features](#features)
-  - [Search for Games](#search-for-games)
-  - [Game Listing](#game-listing)
-  - [Visualizations](#visualizations)
-  - [Top-rated Games by Genre](#top-rated-games-by-genre)
-
 
 ---
 
@@ -50,16 +43,6 @@ Run src/GatorEngine.java in your IDE or terminal using the following command:
 ```bash
 java src/GatorEngine.java
 ```
-
-# Swimmy Gator Game
-
-This repository contains the source code and documentation for the **Swimmy Gator** game project, developed using the **Gator Engine**. Players control a gator, avoiding obstacles and managing gravity and impulse forces. The game includes a start menu, gameplay view, and end popup, with dynamic obstacle spawning and a scrolling background. Balancing game mechanics like speed and difficulty is a key aspect of the project.
-
-## Features
-
-# Swimmy Gator Game
-
-This repository contains the source code and documentation for the **Swimmy Gator** game project, developed using the **Gator Engine**. Players control a gator, avoiding obstacles and managing gravity and impulse forces. The game includes a start menu, gameplay view, and end popup, with dynamic obstacle spawning and a scrolling background. Balancing game mechanics like speed and difficulty is a key aspect of the project.
 
 ## Features
 
