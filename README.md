@@ -58,6 +58,12 @@ This repository contains the source code and documentation for the **Swimmy Gato
 
 ## Features
 
+# Swimmy Gator Game
+
+This repository contains the source code and documentation for the **Swimmy Gator** game project, developed using the **Gator Engine**. Players control a gator, avoiding obstacles and managing gravity and impulse forces. The game includes a start menu, gameplay view, and end popup, with dynamic obstacle spawning and a scrolling background. Balancing game mechanics like speed and difficulty is a key aspect of the project.
+
+## Features
+
 ### Game Controls
 Players control the gator’s movement using gravity and impulse forces. Pressing the space bar makes the gator jump, while the game ends if the gator hits the ground or an obstacle.
 
@@ -70,4 +76,5 @@ The background scrolls seamlessly from right to left, matching the speed of obst
 ### Game Reset
 Once the game ends, the gator stops moving, and the game resets with each new session.
 
-
+### Power-up: Invincibility
+A power-up is available during gameplay that grants the gator temporary invincibility. While active, the gator can collide with obstacles without losing the game. Obstacles that collide with the gator are bounced off the screen, continuing their movement in the opposite direction. This power-up adds a strategic element to gameplay, allowing players to avoid certain death and survive longer.
