@@ -77,4 +77,5 @@ The background scrolls seamlessly from right to left, matching the speed of obst
 Once the game ends, the gator stops moving, and the game resets with each new session.
 
 ### Power-up: Invincibility
-A power-up is available during gameplay that grants the gator temporary invincibility. While active, the gator can collide with obstacles without losing the game. Obstacles that collide with the gator are bounced off the screen, continuing their movement in the opposite direction. This power-up adds a strategic element to gameplay, allowing players to avoid certain death and survive longer.
+A temporary power-up that makes the gator invincible to obstacles. Colliding with obstacles bounces them off the screen, allowing the player to continue without losing the game.
+
