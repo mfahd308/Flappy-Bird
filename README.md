@@ -1,6 +1,6 @@
 # Swimmy Gator
 
-This repository contains the source code and documentation for the **Game Search Engine** project. The application allows users to explore, search, and visualize video game data through a graphical user interface (GUI).
+This repository contains the source code and documentation for the Swimmy Gator game project, developed using the Gator Engine. Players control a gator, avoiding obstacles, seeking power-ups, and managing gravity and impulse forces.
 
 <h2> Table of Contents </h2>
 
@@ -52,21 +52,22 @@ Run src/GatorEngine.java in your IDE or terminal using the following command:
 java src/GatorEngine.java
 ```
 
-Once the application is running, you can interact with the GUI to:
-- Search for games
-- Explore a database of video games
-- Visualize game data
-- View top-rated games by genre
-### Features
-#### Search for Games
-The search feature allows users to search for games by title. The search results are displayed in a list format, showing the game title, platform, and rating.
-#### Game Listing
-The application provides a list of video games, including details such as the title, platform, genre, and rating. Users can scroll through the list to explore different games.
-#### Visualizations
-The application offers visualizations such as:
-- Number of games per platform
-- Number of games per genre
-- Average rating per genre
-#### Top-rated Games by Genre
-Users can view a list of top-rated games by genre, showing the game title, platform, and rating.
+# Swimmy Gator Game
+
+This repository contains the source code and documentation for the **Swimmy Gator** game project, developed using the **Gator Engine**. Players control a gator, avoiding obstacles and managing gravity and impulse forces. The game includes a start menu, gameplay view, and end popup, with dynamic obstacle spawning and a scrolling background. Balancing game mechanics like speed and difficulty is a key aspect of the project.
+
+## Features
+
+### Game Controls
+Players control the gator’s movement using gravity and impulse forces. Pressing the space bar makes the gator jump, while the game ends if the gator hits the ground or an obstacle.
+
+### Obstacle Behavior
+Obstacles spawn at regular intervals and move from right to left, increasing in speed over time. Colliding with an obstacle ends the game.
+
+### Scrolling Background
+The background scrolls seamlessly from right to left, matching the speed of obstacles, and resets when the game ends.
+
+### Game Reset
+Once the game ends, the gator stops moving, and the game resets with each new session.
+
 
